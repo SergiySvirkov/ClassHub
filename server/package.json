@@ -1,0 +1,19 @@
+{
+  "name": "classhub-server",
+  "version": "1.0.0",
+  "description": "Backend for ClassHub web application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+    // Add other scripts as needed
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0",
+    "pg": "^8.6.0"
+    // Add other dependencies as needed
+  },
+  "devDependencies": {
+    // Add development dependencies as needed
+  }
+}
