@@ -1,0 +1,26 @@
+# Node.js
+node_modules/
+
+# Dependency directories
+client/node_modules/
+server/node_modules/
+
+# Production build
+client/build/
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+
+# User-specific files
+.vscode/
+.DS_Store
+.idea/
+
+# Build files
+*.pid
+*.seed
+*.db
